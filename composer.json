@@ -50,6 +50,12 @@
         ]
     },
     "extra": {
+<<<<<<< HEAD
+=======
+        "branch-alias": {
+            "dev-master": "12.x-dev"
+        },
+>>>>>>> 17a16e5184805a99e28ffb2bdfde9a0832d01a2e
         "laravel": {
             "dont-discover": []
         }
@@ -63,6 +69,10 @@
             "php-http/discovery": true
         }
     },
+<<<<<<< HEAD
     "minimum-stability": "stable",
+=======
+    "minimum-stability": "dev",
+>>>>>>> 17a16e5184805a99e28ffb2bdfde9a0832d01a2e
     "prefer-stable": true
 }
